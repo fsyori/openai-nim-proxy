@@ -27,7 +27,7 @@ const MODEL_MAPPING = {
   'dst-3.1': 'deepseek-ai/deepseek-v3.1-terminus',
   'ds-3.1': 'deepseek-ai/deepseek-v3.1',
   'ds-3.2': 'deepseek-ai/deepseek-v3.2',
-  'z-ai': 'z-ai/glm4.7',
+  'z-ai': 'z-ai/glm-5.1',
   'qwen-alt': 'qwen/qwen3-next-80b-a3b-thinking',
 };
 
