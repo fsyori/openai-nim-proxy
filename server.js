@@ -22,12 +22,12 @@ const ENABLE_THINKING_MODE = true; // Set to true to enable chat_template_kwargs
 
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
-  'qwen': 'qwen/qwen3-235b-a22b',
+  'qwen': 'qwen/qwen3.5-397b-a17b',
   'kimi': 'moonshotai/kimi-k2-instruct-0905',
   'dst-3.1': 'deepseek-ai/deepseek-v3.1-terminus',
   'ds-3.1': 'deepseek-ai/deepseek-v3.1',
   'ds-3.2': 'deepseek-ai/deepseek-v3.2',
-  'z-ai': 'z-ai/glm-4.7',
+  'z-ai': 'z-ai/glm4.7',
   'qwen-alt': 'qwen/qwen3-next-80b-a3b-thinking',
 };
 
